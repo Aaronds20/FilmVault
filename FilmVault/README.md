@@ -1,4 +1,4 @@
-<h3>FilmVault</h3>
+<h3>FilmVault - A ReactJS Project</h3>
 <hr>
 
 FilmVault is a web project that allow users to check the new popular movies that have been released and add them to their watchlist.<br>
