@@ -3,8 +3,8 @@
 
 FilmVault is a web project that allow users to check the new popular movies that have been released and add them to their watchlist.<br>
 The movies that have been added to the watchlist can be filtered based on their Genres and can be sorted based on their ratings and popularity.<br>
-You can also search a specific movie present in the watchlist as well as delete them from the watclist.<br>
-The real time movie details are extracted from the TMDB (The Movie Database) API.<br>
+You can also search a specific movie present in the watchlist as well as delete them from the watchlist.<br>
+The real time data for the movies are extracted from the TMDB (The Movie Database) API.<br>
 
 The following technologies have been used to make this project:
 <ul>
